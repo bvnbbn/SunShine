@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_89f68d471b73ef91c2cd127a2917c3606a93eec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4a20e6817b788ff454f8902b217f78513f8da941">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88e83707d26d03d317b3f72458e8cdff62679bfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="91c3f8bc36925ebde8e52e84c7aab966246340ed">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8aa5ec9615af034a41de8f44d3e50a2ab21983ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_659ed492dcb8d4b323186dd98a20193b1f844725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_20a4bd49d3b58f25d28d90e0344f80065f629e90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_ee3756233fae7865b8031ca3d7a5d9d4474ceb30/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/vikas/Desktop/Animated2/Android/Sunshine/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/res/merged/debug/menu/forecastfragment.xml",
+        "source": "/home/vikas/Desktop/Animated2/Android/Sunshine/app/src/main/res/menu/forecastfragment.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/home/vikas/Desktop/Animated2/Android/Sunshine/app/src/main/res/menu/detail.xml"
+    }
+]

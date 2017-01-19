@@ -1,0 +1,7 @@
+#Tue Jan 17 19:35:22 IST 2017
+base.0=/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8aa5ec9615af034a41de8f44d3e50a2ab21983ab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88e83707d26d03d317b3f72458e8cdff62679bfa/classes.dex
+base.1=/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88e83707d26d03d317b3f72458e8cdff62679bfa
+file.0=/home/vikas/Desktop/Animated2/Android/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8aa5ec9615af034a41de8f44d3e50a2ab21983ab/classes.dex
